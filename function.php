@@ -1,4 +1,4 @@
-# bitrix-help
+<?php
 
 //Функция возврата окончания слова при склонении
 use Bitrix\Main\Grid\Declension;
